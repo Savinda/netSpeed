@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericmann/speed-logger.git"
+    "url": "https://github.com/Savinda/netSpeed.git"
   },
   "keywords": [
     "speed"
   ],
-  "author": "Eric Mann",
+  "author": "Savinda Rukshan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ericmann/speed-logger/issues"
+    "url": "https://github.com/Savinda/netSpeed/issues"
   },
-  "homepage": "https://github.com/ericmann/speed-logger#readme",
+  "homepage": "https://github.com/Savinda/netSpeed/",
   "dependencies": {
     "asciichart": "^1.5.7",
     "fast-csv": "^2.5.0",

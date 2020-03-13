@@ -1,0 +1,28 @@
+{
+  "name": "speed-logger",
+  "version": "1.0.0",
+  "description": "Log network speed to a CSV routinely. ",
+  "main": "speed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericmann/speed-logger.git"
+  },
+  "keywords": [
+    "speed"
+  ],
+  "author": "Eric Mann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericmann/speed-logger/issues"
+  },
+  "homepage": "https://github.com/ericmann/speed-logger#readme",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "fast-csv": "^2.5.0",
+    "greenlock": "^2.7.17",
+    "socket.io": "^2.2.0"
+  }
+}
